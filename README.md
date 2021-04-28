@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
 ## Welcome to my Github Profile :pray:
 
-My name is **Ketan**. 
-I am not a bot :robot: don't listen to that Google! He is just jealous :fire:
+My name is **Ketan** and I'm not a bot :robot: Don't listen to whatever Google says! He is just jealous :fire:    
+   
+⚡ _Fun fact_: 
+```
+print(print)
+```
+is a valid Python statement :)
+
 
 <!--
 **KetanSingh11/KetanSingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
